@@ -13,4 +13,6 @@
 ### * The highest recorded temperature in December was only 5 degrees lower than the temperature in June.
 
 ## Summary of the findings
-### The swing in temperature from summer to winter in Oahu is relatively small. The data indicate that Oahu's weather makes it a good location for a year-round surf and ice cream business.
+### The swing in temperature from summer to winter in Oahu is relatively small, spanning from an average of 71 to 77 degrees fahrenheit. The data indicate that Oahu's temperature makes it a good location for a year-round surf and ice cream business. 
+
+### * Next steps: Summary statistics could be generated for precipitation totals on Oahu to confirm that the weather conditions are conducive to an outdoor business. The client may also wish to see an analysis of one spring vs one autumn month to be sure there are no adverse weather patterns in these two seasons.
